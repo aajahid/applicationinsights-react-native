@@ -95,7 +95,7 @@ export class ReactNativePlugin extends BaseTelemetryPlugin {
              * Automatically collects native device info for this device
              */
             function _collectDeviceInfo() {
-                _device.deviceClass = DeviceInfo.getDeviceType();
+                _device.deviceClass = "Handset";
                 _device.id = DeviceInfo.getUniqueId(); // Installation ID
                 _device.model = DeviceInfo.getModel();
             }
