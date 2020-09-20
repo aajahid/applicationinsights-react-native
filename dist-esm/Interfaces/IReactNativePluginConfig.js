@@ -1,0 +1,1 @@
+//# sourceMappingURL=IReactNativePluginConfig.js.map

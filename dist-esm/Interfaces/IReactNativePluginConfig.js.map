@@ -1,0 +1,1 @@
+{"version":3,"file":"IReactNativePluginConfig.js","sourceRoot":"","sources":["../../src/Interfaces/IReactNativePluginConfig.ts"],"names":[],"mappings":"","sourcesContent":["export interface IReactNativePluginConfig {\r\n    disableDeviceCollection?: boolean;\r\n    disableExceptionCollection?: boolean;\r\n}\r\n"]}

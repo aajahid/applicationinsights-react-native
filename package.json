@@ -7,7 +7,7 @@
     "sideEffects": false,
     "repository": {
         "type": "git",
-        "url": "https://github.com/microsoft/ApplicationInsights-JS/tree/master/extensions/applicationinsights-react-native"
+        "url": "https://github.com/aajahid/applicationinsights-react-native"
     },
     "scripts": {
         "prepublishOnly": "npm install && npm run build",
