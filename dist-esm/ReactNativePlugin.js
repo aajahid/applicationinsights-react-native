@@ -60,7 +60,7 @@ var ReactNativePlugin = /** @class */ (function (_super) {
              */
             function _collectDeviceInfo() {
                 _device.deviceClass = "Handset";
-                _device.id = DeviceInfo.getUniqueId(); // Installation ID
+                _device.id = DeviceInfo.getUniqueID(); // Installation ID
                 _device.model = DeviceInfo.getModel();
             }
             function _applyDeviceContext(item) {
